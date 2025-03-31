@@ -49,7 +49,7 @@ Failed to import plugin: @elizaos-plugins/plugin-evm Error: Dynamic require of "
 ```
 
 # 2. Knowledge – Theoretical Exercise
-## 1. Can you identify potential security issues related to the Agent’s trading functionality?
+## 1. Can you identify potential security issues related to the Agent's trading functionality?
 - The agent has a big overhead in my opinion which might make it to slow for active trading -> applicable to sandwich attacks
 - It is very complex so there is a limited amount of people who are able to work with it -> therefore it is only security wise checked by a few experts (also might be a positive thing)
 - As far as I can see transaction amount is not limited also the number of transfers is not capped 
